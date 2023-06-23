@@ -1,0 +1,15 @@
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\bin\Debug\net6.0\VOL.Core.deps.json
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\bin\Debug\net6.0\VOL.Core.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\bin\Debug\net6.0\VOL.Core.pdb
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\bin\Debug\net6.0\VOL.Entity.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\bin\Debug\net6.0\VOL.Entity.pdb
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\obj\Debug\net6.0\VOL.Core.csproj.AssemblyReference.cache
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\obj\Debug\net6.0\VOL.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\obj\Debug\net6.0\VOL.Core.AssemblyInfoInputs.cache
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\obj\Debug\net6.0\VOL.Core.AssemblyInfo.cs
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\obj\Debug\net6.0\VOL.Core.csproj.CoreCompileInputs.cache
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\obj\Debug\net6.0\VOL.Core.csproj.CopyComplete
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\obj\Debug\net6.0\VOL.Core.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\obj\Debug\net6.0\refint\VOL.Core.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\obj\Debug\net6.0\VOL.Core.pdb
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Core\obj\Debug\net6.0\ref\VOL.Core.dll

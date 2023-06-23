@@ -1,0 +1,17 @@
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\bin\Debug\net6.0\VOL.System.deps.json
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\bin\Debug\net6.0\VOL.System.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\bin\Debug\net6.0\VOL.System.pdb
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\bin\Debug\net6.0\VOL.Core.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\bin\Debug\net6.0\VOL.Entity.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\bin\Debug\net6.0\VOL.Core.pdb
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\bin\Debug\net6.0\VOL.Entity.pdb
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\obj\Debug\net6.0\VOL.System.csproj.AssemblyReference.cache
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\obj\Debug\net6.0\VOL.System.GeneratedMSBuildEditorConfig.editorconfig
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\obj\Debug\net6.0\VOL.System.AssemblyInfoInputs.cache
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\obj\Debug\net6.0\VOL.System.AssemblyInfo.cs
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\obj\Debug\net6.0\VOL.System.csproj.CoreCompileInputs.cache
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\obj\Debug\net6.0\VOL.System.csproj.CopyComplete
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\obj\Debug\net6.0\VOL.System.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\obj\Debug\net6.0\refint\VOL.System.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\obj\Debug\net6.0\VOL.System.pdb
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.System\obj\Debug\net6.0\ref\VOL.System.dll

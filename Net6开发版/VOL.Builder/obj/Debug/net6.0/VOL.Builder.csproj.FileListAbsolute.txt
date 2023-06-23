@@ -1,0 +1,17 @@
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\bin\Debug\net6.0\VOL.Builder.deps.json
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\bin\Debug\net6.0\VOL.Builder.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\bin\Debug\net6.0\VOL.Builder.pdb
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\bin\Debug\net6.0\VOL.Core.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\bin\Debug\net6.0\VOL.Entity.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\bin\Debug\net6.0\VOL.Core.pdb
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\bin\Debug\net6.0\VOL.Entity.pdb
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\obj\Debug\net6.0\VOL.Builder.csproj.AssemblyReference.cache
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\obj\Debug\net6.0\VOL.Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\obj\Debug\net6.0\VOL.Builder.AssemblyInfoInputs.cache
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\obj\Debug\net6.0\VOL.Builder.AssemblyInfo.cs
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\obj\Debug\net6.0\VOL.Builder.csproj.CoreCompileInputs.cache
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\obj\Debug\net6.0\VOL.Builder.csproj.CopyComplete
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\obj\Debug\net6.0\VOL.Builder.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\obj\Debug\net6.0\refint\VOL.Builder.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\obj\Debug\net6.0\VOL.Builder.pdb
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.Builder\obj\Debug\net6.0\ref\VOL.Builder.dll
