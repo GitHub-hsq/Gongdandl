@@ -3752,6 +3752,20 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "VOL.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VOL.Core": "1.0.0",
+          "VOL.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VOL.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VOL.Model.dll": {}
+        }
+      },
       "VOL.System/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -10543,6 +10557,11 @@
       "path": "../VOL.Entity/VOL.Entity.csproj",
       "msbuildProject": "../VOL.Entity/VOL.Entity.csproj"
     },
+    "VOL.Model/1.0.0": {
+      "type": "project",
+      "path": "../VOL.Model/VOL.Model.csproj",
+      "msbuildProject": "../VOL.Model/VOL.Model.csproj"
+    },
     "VOL.System/1.0.0": {
       "type": "project",
       "path": "../VOL.System/VOL.System.csproj",
@@ -10559,6 +10578,7 @@
       "VOL.Builder >= 1.0.0",
       "VOL.Core >= 1.0.0",
       "VOL.Entity >= 1.0.0",
+      "VOL.Model >= 1.0.0",
       "VOL.System >= 1.0.0"
     ]
   },
@@ -10602,6 +10622,9 @@
             },
             "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Entity\\VOL.Entity.csproj": {
               "projectPath": "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Entity\\VOL.Entity.csproj"
+            },
+            "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Model\\VOL.Model.csproj": {
+              "projectPath": "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Model\\VOL.Model.csproj"
             },
             "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.System\\VOL.System.csproj": {
               "projectPath": "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.System\\VOL.System.csproj"

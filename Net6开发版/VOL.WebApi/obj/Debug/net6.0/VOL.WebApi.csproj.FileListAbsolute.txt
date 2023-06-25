@@ -108,10 +108,12 @@ E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版
 E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.WebApi\bin\Debug\netcoreapp6.0\net6.0\VOL.Builder.dll
 E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.WebApi\bin\Debug\netcoreapp6.0\net6.0\VOL.Core.dll
 E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.WebApi\bin\Debug\netcoreapp6.0\net6.0\VOL.Entity.dll
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.WebApi\bin\Debug\netcoreapp6.0\net6.0\VOL.Model.dll
 E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.WebApi\bin\Debug\netcoreapp6.0\net6.0\VOL.System.dll
 E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.WebApi\bin\Debug\netcoreapp6.0\net6.0\VOL.Builder.pdb
 E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.WebApi\bin\Debug\netcoreapp6.0\net6.0\VOL.Core.pdb
 E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.WebApi\bin\Debug\netcoreapp6.0\net6.0\VOL.Entity.pdb
+E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.WebApi\bin\Debug\netcoreapp6.0\net6.0\VOL.Model.pdb
 E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.WebApi\bin\Debug\netcoreapp6.0\net6.0\VOL.System.pdb
 E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.WebApi\obj\Debug\net6.0\VOL.WebApi.csproj.AssemblyReference.cache
 E:\WbePC工单数据管理平台\Vue.NetCore-master\Vue.NetCore-master\开发版dev\Net6开发版\VOL.WebApi\obj\Debug\net6.0\VOL.WebApi.GeneratedMSBuildEditorConfig.editorconfig

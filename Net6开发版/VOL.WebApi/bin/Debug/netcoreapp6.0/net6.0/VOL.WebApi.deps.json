@@ -16,6 +16,7 @@
           "VOL.Builder": "1.0.0",
           "VOL.Core": "1.0.0",
           "VOL.Entity": "1.0.0",
+          "VOL.Model": "1.0.0",
           "VOL.System": "1.0.0"
         },
         "runtime": {
@@ -2161,6 +2162,15 @@
           "VOL.Entity.dll": {}
         }
       },
+      "VOL.Model/1.0.0": {
+        "dependencies": {
+          "VOL.Core": "1.0.0",
+          "VOL.Entity": "1.0.0"
+        },
+        "runtime": {
+          "VOL.Model.dll": {}
+        }
+      },
       "VOL.System/1.0.0": {
         "dependencies": {
           "AutoMapper": "6.2.2",
@@ -3587,6 +3597,11 @@
       "sha512": ""
     },
     "VOL.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VOL.Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

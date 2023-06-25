@@ -54,9 +54,9 @@ namespace VOL.Entity.DomainModels
        public Guid? ParentId { get; set; }
 
        /// <summary>
-       ///部门类型
+       ///组织类型
        /// </summary>
-       [Display(Name ="部门类型")]
+       [Display(Name ="组织类型")]
        [MaxLength(50)]
        [Column(TypeName="nvarchar(50)")]
        [Editable(true)]

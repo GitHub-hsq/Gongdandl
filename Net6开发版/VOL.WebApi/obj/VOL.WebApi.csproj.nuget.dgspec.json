@@ -331,6 +331,72 @@
         }
       }
     },
+    "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Model\\VOL.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Model\\VOL.Model.csproj",
+        "projectName": "VOL.Model",
+        "projectPath": "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Model\\VOL.Model.csproj",
+        "packagesPath": "C:\\Users\\TLDHSQ\\.nuget\\packages\\",
+        "outputPath": "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TLDHSQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Core\\VOL.Core.csproj": {
+                "projectPath": "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Core\\VOL.Core.csproj"
+              },
+              "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Entity\\VOL.Entity.csproj": {
+                "projectPath": "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Entity\\VOL.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.System\\VOL.System.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -458,6 +524,9 @@
               },
               "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Entity\\VOL.Entity.csproj": {
                 "projectPath": "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Entity\\VOL.Entity.csproj"
+              },
+              "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Model\\VOL.Model.csproj": {
+                "projectPath": "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.Model\\VOL.Model.csproj"
               },
               "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.System\\VOL.System.csproj": {
                 "projectPath": "E:\\WbePC工单数据管理平台\\Vue.NetCore-master\\Vue.NetCore-master\\开发版dev\\Net6开发版\\VOL.System\\VOL.System.csproj"
